@@ -11,7 +11,7 @@
 ## Technology
   - IDE: Android Studio IDE
   - Java Code
-##Main Features of the Project
+## Main Features of the Project
   - Note-taking for learning: The application allows users to store and organize important knowledge in the form of notes.
   - Self-reviewing knowledge: Users can create their own review exercises based on saved notes, helping reinforce and retain information.
   - Self-testing knowledge: The app provides quizzes for users to assess their knowledge, helping them track their learning progress.
